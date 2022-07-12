@@ -1,0 +1,47 @@
+.heading {  
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 5px;
+    font-style: inherit;
+    
+}
+
+
+label{
+
+    font-size: 14px;
+    color:rgb(81, 89, 240);
+    padding: 6px;
+    border-radius: 10px;
+    background-color:rgb(6, 51, 185); 
+
+}
+
+body
+{
+  background: rgb(0, 255, 51);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(3, 26, 89);
+  width: 350px;
+  height: 300px; 
+}
+
+#result_handgesture_name1 ,#result_emotion_name2  
+{
+  color: rgb(240, 7, 244);
+}
+
+.handgesture_name
+{
+  font-size: 40px;
+}
+.handgesture
+{
+  font-size:48px;
+}
